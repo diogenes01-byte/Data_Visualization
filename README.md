@@ -1,2 +1,1 @@
-# Data_visualization
-Representación gráfica avanzada de datos para análisis.
+## Técnicas y herramientas de visualización de datos, transformando información compleja en gráficos claros y comprensibles. Su objetivo es facilitar el análisis, la interpretación y la comunicación efectiva de insights para la toma de decisiones basada en datos.
