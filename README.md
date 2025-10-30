@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![BI](https://img.shields.io/badge/BI-Power%20BI-yellow?style=for-the-badge&logo=microsoftpowerbi)
-![Visualización](https://img.shields.io/badge/Visualización-Matplotlib%2FSeaborn%2FPlotly-orange?style=for-the-badge)
+![Visualización](https://img.shields.io/badge/Visualización-Matplotlib%2FSeaborn%2?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-En%20progreso-yellow?style=for-the-badge)
 
 Este repositorio explora **técnicas y herramientas de visualización de datos**, transformando información compleja en **gráficos claros y comprensibles**. Su objetivo es **facilitar el análisis, la interpretación y la comunicación efectiva de insights** para la toma de decisiones basada en datos.
